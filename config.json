@@ -1,0 +1,15 @@
+{
+  "downloads_folder": "/path/to/downloads",
+  "destination_folders": {
+    "images": "/path/to/images",
+    "documents": "/path/to/documents",
+    "music": "/path/to/music",
+    "videos": "/path/to/videos"
+  },
+  "file_types": {
+    "images": [".jpg", ".jpeg", ".png", ".gif", ".bmp"],
+    "documents": [".pdf", ".docx", ".xlsx", ".pptx", ".txt"],
+    "music": [".mp3", ".wav", ".aac", ".flac"],
+    "videos": [".mp4", ".mkv", ".avi", ".mov"]
+  }
+}
